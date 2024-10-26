@@ -1,0 +1,13 @@
+/logs/
+/test_script/
+/lightning_logs/
+/log/
+/result/
+/configs/
+/run/configs/lsun/
+/configs/vq-f4/
+*.zip
+*.ckpt
+*.jpg
+*.png
+*.txt
